@@ -14,12 +14,6 @@
             {
                 if (value is not null) documento = value;
                 else documento = "doc não informado";
-                string teste = "teste";
-                var t = teste.Contains("e");
-                List<string> tesouro = new();
-                tesouro.Add("teste");
-                var e = tesouro.Count;
-                var x = Console.ReadLine();
             }
         }
 
